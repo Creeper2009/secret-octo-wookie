@@ -1,0 +1,6 @@
+name: "secret-octo-wookie"
+description: "a Jekyll theme inspired by GUIs of numerous video games"
+baseurl: ""
+url: "github.tk"
+
+markdown: "kramdown"
